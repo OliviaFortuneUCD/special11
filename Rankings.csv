@@ -1,0 +1,1027 @@
+Rank,University,Score,Country,Flag,League
+1,California Institute of Technology (Caltech),100.000,USA,,Diamond League
+2,Harvard University,98.697,USA,,Diamond League
+3,Massachusetts Institute of Technology (MIT),98.634,USA,,Diamond League
+4,Stanford University,98.424,USA,,Diamond League
+5,Karolinska Institute,98.414,Sweden,,Diamond League
+6,ETH Zurich (Swiss Federal Institute of Technology),96.644,Switzerland,,Diamond League
+7,Columbia University,96.562,USA,,Diamond League
+8,Imperial College London,96.113,UK,,Diamond League
+9,University of Chicago,96.032,USA,,Diamond League
+10,Johns Hopkins University,95.620,USA,,Diamond League
+11,Peking University,95.409,China,,Diamond League
+12,University of Oxford,95.289,UK,,Diamond League
+13,University of Pennsylvania,94.745,USA,,Diamond League
+14,Ecole Polytechnique Federale de Lausanne,94.733,Switzerland,,Diamond League
+15,Princeton University,94.665,USA,,Diamond League
+16,University of Cambridge,94.554,UK,,Diamond League
+17,Yale University,94.395,USA,,Diamond League
+18,Northwestern University,94.183,USA,,Diamond League
+19,Washington University in St. Louis,93.522,USA,,Diamond League
+20,University College London,93.124,UK,,Diamond League
+21,Korea Advanced Institute of Science and Technology (KAIST),93.104,Republic of Korea,,Diamond League
+22,Case Western Reserve University,92.457,USA,,Diamond League
+23,Technical University of Denmark,91.867,Denmark,,Diamond League
+24,New York University,91.732,USA,,Diamond League
+25,Carnegie Mellon University,91.432,USA,,Diamond League
+26,Cornell University,91.314,USA,,Diamond League
+27,Scuola Normale Superiore di Pisa,90.791,Italy,,Diamond League
+28,Tsinghua University,90.555,China,,Diamond League
+29,University of Southern California,90.287,USA,,Diamond League
+30,Emory University,89.904,USA,,Diamond League
+31,University of Michigan,89.822,USA,,Diamond League
+32,Pohang University of Science and Technology (POSTECH),89.676,Republic of Korea,,Diamond League
+33,Boston University,89.667,USA,,Diamond League
+34,University of Edinburgh,89.438,UK,,Diamond League
+35,Vanderbilt University,88.681,USA,,Diamond League
+36,"University of California, Los Angeles",88.496,USA,,Diamond League
+37,Tohoku University,88.428,Japan,,Diamond League
+38,Rice University,88.387,USA,,Diamond League
+39,Zhejiang University,88.180,China,,Diamond League
+40,Brown University,88.072,USA,,Diamond League
+41,University of Lausanne,87.912,Switzerland,,Diamond League
+42,University of Science and Technology of China,87.909,China,,Diamond League
+43,Ludwig Maximilian University of Munich,87.822,Germany,,Diamond League
+44,Fudan University,87.750,China,,Diamond League
+45,University of Washington,87.495,USA,,Diamond League
+46,Tufts University,87.380,USA,,Diamond League
+47,University of Tokyo,87.291,Japan,,Diamond League
+48,University of Wisconsin - Madison,87.129,USA,,Diamond League
+49,McGill University,87.100,Canada,,Diamond League
+50,Indian Institute of Science,87.073,India,,Diamond League
+51,University of Hong Kong,87.037,Hong Kong,,Diamond League
+52,University of Helsinki,86.987,Finland,,Diamond League
+53,Technische Universitat Dresden (TU Dresden),86.803,Germany,,Diamond League
+54,University of Pittsburgh,86.707,USA,,Diamond League
+55,Nanyang Technological University,86.632,Singapore,,Diamond League
+56,University of Rochester,86.573,USA,,Diamond League
+57,Kyoto University,86.227,Japan,,Diamond League
+58,Wageningen University & Research Center,86.169,Netherlands,,Diamond League
+59,University of Bern,85.985,Switzerland,,Diamond League
+60,University of Geneva,85.941,Switzerland,,Diamond League
+61,Shanghai Jiao Tong University,85.829,China,,Diamond League
+62,Chinese University Hong Kong,85.541,Hong Kong,,Diamond League
+63,Dartmouth College,85.437,USA,,Diamond League
+64,Tokyo Institute of Technology,85.397,Japan,,Diamond League
+65,University of North Carolina,85.375,USA,,Diamond League
+66,Australian National University,85.333,Australia,,Diamond League
+67,University of Minnesota,85.140,USA,,Diamond League
+68,Lund University,85.123,Sweden,,Diamond League
+69,King`s College London,85.101,UK,,Diamond League
+70,Lomonosov Moscow State University,84.949,Russia,,Diamond League
+71,"University of California, Berkeley",84.941,USA,,Diamond League
+72,University of Southampton,84.687,UK,,Diamond League
+73,Royal Institute of Technology (KTH),84.670,Sweden,,Diamond League
+74,University of Manchester,84.523,UK,,Diamond League
+75,Utrecht University,84.519,Netherlands,,Diamond League
+76,University of Sao Paulo,84.305,Brazil,,Diamond League
+77,National University of Singapore,84.226,Singapore,,Diamond League
+78,"University of California, San Diego",84.174,USA,,Diamond League
+79,Ruprecht Karl University of Heidelberg,84.169,Germany,,Diamond League
+80,Georgetown University,84.102,USA,,Diamond League
+81,Technical University of Munich,84.094,Germany,,Diamond League
+82,University of Zurich,84.075,Switzerland,,Diamond League
+83,University of Illinois at Chicago,83.576,USA,,Diamond League
+84,RWTH Aachen University,83.476,Germany,,Diamond League
+85,"University of California, Davis",83.439,USA,,Diamond League
+86,University of Twente,82.960,Netherlands,,Diamond League
+87,Hokkaido University,82.866,Japan,,Diamond League
+88,Ohio State University,82.710,USA,,Diamond League
+89,National Yang Ming Chiao Tung University,82.706,Taiwan,,Diamond League
+90,Rutgers the State University of New Jersey,82.639,USA,,Diamond League
+91,University of Toronto,82.618,Canada,,Diamond League
+92,Sorbonne University,82.554,France,,Diamond League
+93,University of Gottingen,82.113,Germany,,Diamond League
+94,Purdue University,82.105,USA,,Diamond League
+95,University of Bristol,82.027,UK,,Diamond League
+96,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),81.954,Russia,,Diamond League
+97,Moscow Institute of Physics and Technology,81.941,Russia,,Diamond League
+99,"Ecole Normale Superieure, Lyon",81.929,France,,Diamond League
+99,University of Sydney,81.929,Australia,,Diamond League
+100,Tomsk State University,81.889,Russia,,Diamond League
+101,Aarhus University,81.726,Denmark,,Golden League
+102,Hebrew University of Jerusalem,81.685,Israel,,Golden League
+103,London School of Economics and Political Science,81.475,UK,,Golden League
+104,George Washington University,81.455,USA,,Golden League
+105,Karlsruhe Institute of Technology,81.449,Germany,,Golden League
+106,University of Sheffield,81.350,UK,,Golden League
+107,City University of Hong Kong,81.304,Hong Kong,,Golden League
+108,Medical University of Vienna,81.293,Austria,,Golden League
+109,University of British Columbia,81.195,Canada,,Golden League
+110,University of Queensland Australia,81.143,Australia,,Golden League
+111,Universite Paris-Sud,81.094,France,,Golden League
+112,Tongji University,80.973,China,,Golden League
+113,Chalmers University of Technology,80.971,Sweden,,Golden League
+114,University of Glasgow,80.918,UK,,Golden League
+115,Nanjing University,80.871,China,,Golden League
+116,University of Calgary,80.710,Canada,,Golden League
+117,Radboud University Nijmegen,80.680,Netherlands,,Golden League
+118,University of Notre Dame,80.620,USA,,Golden League
+119,University of Florida,80.550,USA,,Golden League
+120,Hong Kong University of Science and Technology,80.420,Hong Kong,,Golden League
+121,Harbin Institute of Technology,80.312,China,,Golden League
+122,Osaka University,80.306,Japan,,Golden League
+123,National Taiwan University,80.274,Taiwan,,Golden League
+124,IMT Atlantique,80.267,France,,Golden League
+125,Nagoya University,80.256,Japan,,Golden League
+126,Lancaster University,80.168,UK,,Golden League
+127,"University of Maryland, College Park",80.026,USA,,Golden League
+128,"Queen Mary, University of London",79.961,UK,,Golden League
+129,University of Gothenburg,79.791,Sweden,,Golden League
+130,Hanyang University,79.778,Republic of Korea,,Golden League
+131,University of Groningen,79.776,Netherlands,,Golden League
+132,Yonsei University,79.714,Republic of Korea,,Golden League
+133,Erasmus University Rotterdam,79.453,Netherlands,,Golden League
+134,University of St. Andrews,79.373,UK,,Golden League
+135,University of Miami,79.221,USA,,Golden League
+136,University of Utah,79.049,USA,,Golden League
+137,Georgia Institute of Technology,78.992,USA,,Golden League
+138,University of Kansas,78.873,USA,,Golden League
+139,Tokyo Medical and Dental University,78.630,Japan,,Golden League
+140,University of Tsukuba,78.594,Japan,,Golden League
+141,University of Wurzburg,78.468,Germany,,Golden League
+142,Michigan State University,78.465,USA,,Golden League
+143,University of New South Wales,78.440,Australia,,Golden League
+144,Technical University of Berlin,78.438,Germany,,Golden League
+145,University of Birmingham,78.419,UK,,Golden League
+146,University of Warwick,78.413,UK,,Golden League
+147,McMaster University,78.229,Canada,,Golden League
+148,University of Bergen,78.000,Norway,,Golden League
+149,State University of Campinas (Unicamp),77.926,Brazil,,Golden League
+150,University of Iowa,77.901,USA,,Golden League
+151,Pennsylvania State University,77.782,USA,,Golden League
+152,Monash University,77.558,Australia,,Golden League
+153,Northeastern University,77.528,USA,,Golden League
+154,Katholieke Universiteit Leuven (KU Leuven),77.269,Belgium,,Golden League
+155,Newcastle University,77.180,UK,,Golden League
+156,Tel Aviv University,77.178,Israel,,Golden League
+157,Gwangju Institute of Science and Technology,77.174,Republic of Korea,,Golden League
+158,University of Cologne,77.134,Germany,,Golden League
+159,University of Malaya,76.894,Malaysia,,Golden League
+160,Cardiff University,76.792,UK,,Golden League
+161,Rockefeller University,76.749,USA,,Golden League
+162,University of Arizona,76.724,USA,,Golden League
+163,University of Hamburg,76.722,Germany,,Golden League
+164,"Indian Institute of Science Education and Research, Pune",76.684,India,,Golden League
+165,University of Adelaide,76.679,Australia,,Golden League
+166,Autonomous University of Barcelona,76.666,Spain,,Golden League
+167,Trinity College Dublin,76.519,Ireland,,Golden League
+168,Humboldt University of Berlin,76.484,Germany,,Golden League
+169,"State University of New York, Buffalo",76.456,USA,,Golden League
+170,University of Munster,76.451,Germany,,Golden League
+171,Swedish University of Agricultural Sciences,76.430,Sweden,,Golden League
+172,Sungkyunkwan University,76.422,Republic of Korea,,Golden League
+173,Beijing Normal University,76.405,China,,Golden League
+174,Free University of Berlin,76.390,Germany,,Golden League
+175,University of Erlangen Nuremberg,76.330,Germany,,Golden League
+176,Tehran University of Medical Sciences,76.174,Iran,,Golden League
+177,University of Cape Town,76.132,South Africa,,Golden League
+178,University of Hawaii,75.983,USA,,Golden League
+179,University of Illinois at Urbana - Champaign,75.966,USA,,Golden League
+180,Durham University,75.951,UK,,Golden League
+181,"State University of New York, Stony Brook",75.908,USA,,Golden League
+182,Indiana University,75.837,USA,,Golden League
+183,North Carolina State University,75.826,USA,,Golden League
+184,University of York,75.816,UK,,Golden League
+185,Aalto University,75.792,Finland,,Golden League
+186,Universite Paris Cite,75.755,France,,Golden League
+187,Technion Israel Institute of Technology,75.747,Israel,,Golden League
+188,University of Reading,75.590,UK,,Golden League
+189,National Tsing Hua University,75.587,Taiwan,,Golden League
+190,University of Freiburg,75.525,Germany,,Golden League
+191,Wake Forest University,75.206,USA,,Golden League
+192,Vrije Universiteit Brussels (VUB),75.192,Belgium,,Golden League
+193,Drexel University,75.166,USA,,Golden League
+194,A.C.Camargo Cancer Center,75.103,Brazil,,Golden League
+195,Ghent University,74.995,Belgium,,Golden League
+196,Texas A&M University,74.915,USA,,Golden League
+197,Wuhan University,74.893,China,,Golden League
+198,University Catholique de Louvain,74.835,Belgium,,Golden League
+199,Dalhousie University,74.830,Canada,,Golden League
+200,Xi`an Jiaotong University,74.826,China,,Golden League
+201,University of Western Australia,74.771,Australia,,Silver League
+202,Technical University of Darmstadt,74.762,Germany,,Silver League
+203,University of Liverpool,74.529,UK,,Silver League
+204,University of Montpellier,74.432,France,,Silver League
+205,University of Colorado,74.413,USA,,Silver League
+206,"Indian Institute of Technology, Kharagpur",74.399,India,,Silver League
+207,Universite de Paris,74.395,France,,Silver League
+208,Weizmann Institute of Science,74.365,Israel,,Silver League
+209,"University of California, Irvine",74.182,USA,,Silver League
+210,Beihang University,74.138,China,,Silver League
+211,University of Aberdeen,74.031,UK,,Silver League
+212,Western University,73.767,Canada,,Silver League
+213,Universite de Montreal,73.742,Canada,,Silver League
+214,University of Exeter,73.676,UK,,Silver League
+215,Huazhong University of Science and Technology,73.586,China,,Silver League
+216,Laval University,73.577,Canada,,Silver League
+217,University of Bonn,73.565,Germany,,Silver League
+218,Southeast University,73.495,China,,Silver League
+219,Hong Kong Polytechnic University,73.378,Hong Kong,,Silver League
+220,University of Ottawa,73.328,Canada,,Silver League
+221,University of Alaska,73.230,USA,,Silver League
+222,University of Auckland,73.184,New Zealand,,Silver League
+223,China Agricultural University,73.167,China,,Silver League
+224,University of Konstanz,73.087,Germany,,Silver League
+225,University of Ulm,72.901,Germany,,Silver League
+226,University of Barcelona,72.885,Spain,,Silver League
+227,"Indian Institute of Technology, Madras",72.651,India,,Silver League
+228,University of Nova Gorica,72.501,Slovenia,,Silver League
+229,William & Mary,72.447,USA,,Silver League
+230,University of Padua,72.422,Italy,,Silver League
+231,Queen`s University Belfast,72.207,UK,,Silver League
+232,"University of California, Santa Barbara",72.203,USA,,Silver League
+233,Temple University,72.122,USA,,Silver League
+234,Universite Grenoble Alpes (UGA),72.061,France,,Silver League
+235,University of Sussex,71.890,UK,,Silver League
+236,Aix Marseille University,71.745,France,,Silver League
+237,Beijing Institute of Technology,71.737,China,,Silver League
+238,Tomsk Polytechnic University,71.570,Russia,,Silver League
+239,University of Missouri,71.507,USA,,Silver League
+240,University of Connecticut,71.422,USA,,Silver League
+241,Aalborg University,71.406,Denmark,,Silver League
+242,Kyung Hee University,71.375,Republic of Korea,,Silver League
+243,Tianjin University,71.368,China,,Silver League
+244,University of Tennessee Knoxville,71.358,USA,,Silver League
+245,University of Witwatersrand,71.353,South Africa,,Silver League
+246,University of Georgia,71.315,USA,,Silver League
+247,SOAS University of London,71.298,UK,,Silver League
+248,University of Navarra,71.136,Spain,,Silver League
+249,Universiti Putra Malaysia,71.112,Malaysia,,Silver League
+250,Kazan Federal University,71.067,Russia,,Silver League
+251,University of Oklahoma,71.058,USA,,Silver League
+252,Hiroshima University,71.056,Japan,,Silver League
+253,King Abdulaziz University,71.021,Saudi Arabia,,Silver League
+254,Charles University in Prague,71.004,Czech Republic,,Silver League
+255,University of Florence,70.971,Italy,,Silver League
+256,University of Tartu,70.951,Estonia,,Silver League
+257,University of Antwerp,70.842,Belgium,,Silver League
+258,Kobe University,70.814,Japan,,Silver League
+259,Semmelweis University,70.691,Hungary,,Silver League
+260,USI - Universita della Svizzera italiana,70.669,Switzerland,,Silver League
+261,Syracuse University,70.470,USA,,Silver League
+262,"Indian Institute of Technology, Delhi",70.441,India,,Silver League
+263,Universiti Kebangsaan Malaysia,70.367,Malaysia,,Silver League
+264,Tulane University,70.344,USA,,Silver League
+265,University of Bath,70.342,UK,,Silver League
+266,University College Dublin,70.215,Ireland,,Silver League
+267,Shandong University,70.202,China,,Silver League
+268,"Royal Holloway, University of London",70.159,UK,,Silver League
+269,University of Strathclyde,70.072,UK,,Silver League
+270,Bauman Moscow State Technical University,70.021,Russia,,Silver League
+271,Norwegian University of Science and Technology,69.989,Norway,,Silver League
+272,Umea University,69.930,Sweden,,Silver League
+274,National University of Science and Technology MISiS,69.706,Russia,,Silver League
+274,Rensselaer Polytechnic Institute,69.706,USA,,Silver League
+275,Loughborough University,69.660,UK,,Silver League
+276,Nankai University,69.653,China,,Silver League
+277,University of Wollongong,69.648,Australia,,Silver League
+278,Tilburg University,69.596,Netherlands,,Silver League
+279,University of Saskatchewan,69.580,Canada,,Silver League
+280,University of Nebraska Medical Center,69.529,USA,,Silver League
+281,Universiti Teknologi Malaysia,69.496,Malaysia,,Silver League
+283,Boston College,69.341,USA,,Silver League
+283,University of New Mexico,69.341,USA,,Silver League
+284,Curtin University,69.304,Australia,,Silver League
+285,South China University of Technology,69.254,China,,Silver League
+286,Washington State University,69.212,USA,,Silver League
+287,Sapienza University of Rome,69.208,Italy,,Silver League
+289,East China Normal University,69.080,China,,Silver League
+289,University of Surrey,69.080,UK,,Silver League
+290,University of Trieste,69.076,Italy,,Silver League
+291,St George`s University of London,69.072,UK,,Silver League
+292,University of Montana,69.067,USA,,Silver League
+293,Colorado State University,69.017,USA,,Silver League
+294,ITMO University,68.997,Russia,,Silver League
+295,Colorado School of Mines,68.973,USA,,Silver League
+296,Virginia Polytechnic Institute and State University,68.921,USA,,Silver League
+297,Bielefeld University,68.828,Germany,,Silver League
+298,Macquarie University,68.822,Australia,,Silver League
+299,"University of California, Riverside",68.821,USA,,Silver League
+300,University of Delaware,68.812,USA,,Silver League
+301,Claude Bernard University Lyon 1,68.740,France,,Bronze League
+302,School of Oriental and African Studies (SOAS University),68.715,UK,,Bronze League
+303,Arizona State University,68.703,USA,,Bronze League
+304,University of Tasmania,68.599,Australia,,Bronze League
+305,University of Waterloo,68.520,Canada,,Bronze League
+306,American University of Beirut,68.515,Lebanon,,Bronze League
+307,University of Jyvaskyla,68.422,Finland,,Bronze League
+308,University of Dundee,68.404,UK,,Bronze League
+309,Queens University,68.333,Canada,,Bronze League
+310,University of Bremen,68.290,Germany,,Bronze League
+311,Universite Libre de Bruxelles,68.274,Belgium,,Bronze League
+312,Queensland University of Technology,68.198,Australia,,Bronze League
+313,University of Otago,68.075,New Zealand,,Bronze League
+314,University of South Florida,68.040,USA,,Bronze League
+315,Pompeu Fabra University,68.013,Spain,,Bronze League
+316,Universiti Sains Malaysia,67.932,Malaysia,,Bronze League
+317,Bar-Ilan University,67.913,Israel,,Bronze League
+318,Sun Yat-sen University,67.835,China,,Bronze League
+319,Khalifa University,67.571,United Arab Emirates,,Bronze League
+320,University of East Anglia,67.285,UK,,Bronze League
+321,"Indian Institute of Technology, Kanpur",67.283,India,,Bronze League
+322,Oregon State University,67.245,USA,,Bronze League
+323,University of Nebraska,67.239,USA,,Bronze League
+324,Federal University of Rio de Janeiro,67.134,Brazil,,Bronze League
+325,University of Tehran,66.913,Iran,,Bronze League
+326,University of Canterbury,66.841,New Zealand,,Bronze League
+327,University of Guelph,66.830,Canada,,Bronze League
+328,James Cook University,66.794,Australia,,Bronze League
+329,Central South University,66.633,China,,Bronze League
+330,Sichuan University,66.631,China,,Bronze League
+331,University of Porto,66.391,Portugal,,Bronze League
+332,King Fahd University of Petroleum and Minerals,66.338,Saudi Arabia,,Bronze League
+333,University of Bordeaux,66.282,France,,Bronze League
+334,Okayama University,66.281,Japan,,Bronze League
+335,American University,66.280,USA,,Bronze League
+336,Middle East Technical University,66.225,Turkey,,Bronze League
+337,Northwestern Polytechnical University,66.217,China,,Bronze League
+338,National Cheng Kung University,66.169,Taiwan,,Bronze League
+339,Saint Petersburg State University,66.039,Russia,,Bronze League
+340,"University of California, Santa Cruz",66.019,USA,,Bronze League
+341,Lappeenranta University of Technology,65.958,Finland,,Bronze League
+342,"Birkbeck, University of London",65.939,UK,,Bronze League
+343,Autonomous University of Madrid,65.681,Spain,,Bronze League
+344,University of Macau,65.671,Macau,,Bronze League
+345,Johann Wolfgang Goethe University Frankfurt am Main,65.669,Germany,,Bronze League
+346,Brunel University,65.459,UK,,Bronze League
+347,Florida Institute of Technology,65.456,USA,,Bronze League
+348,University of Iceland,65.454,Iceland,,Bronze League
+349,Dalian University of Technology,65.323,China,,Bronze League
+350,University of Genoa,65.297,Italy,,Bronze League
+351,University of Oulu,65.286,Finland,,Bronze League
+352,Heriot-Watt University,65.282,UK,,Bronze League
+353,Lehigh University,65.193,USA,,Bronze League
+354,University of Pisa,65.133,Italy,,Bronze League
+355,Brandeis University,65.042,USA,,Bronze League
+356,Tokyo Metropolitan University,64.922,Japan,,Bronze League
+357,Stellenbosch University,64.843,South Africa,,Bronze League
+358,University of Manitoba,64.724,Canada,,Bronze League
+359,Pontificia University Catolica de Chile,64.690,Chile,,Bronze League
+360,"State University of New York, Albany",64.662,USA,,Bronze League
+361,RUDN University,64.644,Russia,,Bronze League
+362,Koc University,64.504,Turkey,,Bronze League
+363,National Taiwan Normal University,64.429,Taiwan,,Bronze League
+365,University of Turku,64.412,Finland,,Bronze League
+365,Southern Medical University - China,64.412,China,,Bronze League
+366,University of Coimbra,64.347,Portugal,,Bronze League
+367,Isfahan University of Technology,64.309,Iran,,Bronze League
+368,RMIT University,64.186,Australia,,Bronze League
+369,King Saud University,63.882,Saudi Arabia,,Bronze League
+370,I.M. Sechenov First Moscow State Medical University,63.619,Russia,,Bronze League
+371,Flinders University,63.601,Australia,,Bronze League
+372,Simon Fraser University,63.408,Canada,,Bronze League
+373,Polytechnic University of Catalonia,63.370,Spain,,Bronze League
+374,George Mason University,63.323,USA,,Bronze League
+375,Auburn University,63.293,USA,,Bronze League
+376,University of Hannover,63.226,Germany,,Bronze League
+377,Peter the Great St. Petersburg Polytechnic University,63.189,Russia,,Bronze League
+378,University of Wyoming,63.150,USA,,Bronze League
+379,Universiti Teknologi Petronas,63.141,Malaysia,,Bronze League
+380,University of Ibadan,63.128,Nigeria,,Bronze League
+381,University of Innsbruck,63.051,Austria,,Bronze League
+382,Ewha Womans University,63.049,Republic of Korea,,Bronze League
+383,University of Essex,62.947,UK,,Bronze League
+384,Istanbul Technical University,62.908,Turkey,,Bronze League
+385,Creighton University,62.902,USA,,Bronze League
+386,La Trobe University,62.698,Australia,,Bronze League
+387,University of Eastern Finland,62.674,Finland,,Bronze League
+388,National Sun Yat-Sen University,62.666,Taiwan,,Bronze League
+389,Keio University,62.648,Japan,,Bronze League
+390,Polytechnic University of Milan,62.429,Italy,,Bronze League
+391,Oklahoma State University,62.412,USA,,Bronze League
+392,University of St. Gallen,62.244,Switzerland,,Bronze League
+393,Massey University,62.207,New Zealand,,Bronze League
+394,Beijing University of Technology,62.086,China,,Bronze League
+395,National Taiwan University of Science and Technology,62.080,Taiwan,,Bronze League
+396,Central European University,61.945,Hungary,,Bronze League
+397,Nanjing Medical University,61.894,China,,Bronze League
+398,Iran University of Science & Technology,61.886,Iran,,Bronze League
+399,Juntendo University,61.838,Japan,,Bronze League
+400,Kanazawa University,61.806,Japan,,Bronze League
+401,University of KwaZulu Natal,61.800,South Africa,,Copper League
+402,University of Lisbon,61.691,Portugal,,Copper League
+403,Louisiana State University,61.624,USA,,Copper League
+404,Shanghai University,61.573,China,,Copper League
+405,University of Nova de Lisboa,61.559,Portugal,,Copper League
+406,National Central University,61.339,Taiwan,,Copper League
+407,Mahidol University,61.301,Thailand,,Copper League
+408,University of Hyderabad,61.269,India,,Copper League
+409,Swansea University,61.263,UK,,Copper League
+410,Chiba University,61.257,Japan,,Copper League
+411,University College Cork,61.195,Ireland,,Copper League
+412,University of Aveiro,61.098,Portugal,,Copper League
+413,Jilin University,61.094,China,,Copper League
+414,University of Electronic Science and Technology of China,60.970,China,,Copper League
+415,University of Oregon,60.884,USA,,Copper League
+416,Victoria University of Wellington,60.762,New Zealand,,Copper League
+417,Nanjing University of Science & Technology,60.606,China,,Copper League
+418,University of Qatar,60.560,Qatar,,Copper League
+419,Kumamoto University,60.554,Japan,,Copper League
+420,Yokohama City University,60.482,Japan,,Copper League
+421,University of Vermont,60.338,USA,,Copper League
+422,Universite Cote d`Azur (ComUE),60.320,France,,Copper League
+423,Polytechnic University of Valencia,60.313,Spain,,Copper League
+424,Chulalongkorn University,60.305,Thailand,,Copper League
+425,University of Sherbrooke,60.275,Canada,,Copper League
+426,Comenius University in Bratislava,60.263,Slovakia,,Copper League
+427,Goldsmiths College,60.201,UK,,Copper League
+428,Deakin University,60.089,Australia,,Copper League
+429,University of Pretoria,60.079,South Africa,,Copper League
+430,Palacky University of Olomouc,60.051,Czech Republic,,Copper League
+431,University of South Australia,59.972,Australia,,Copper League
+432,University of Texas at Dallas,59.969,USA,,Copper League
+433,Sejong University,59.838,Republic of Korea,,Copper League
+434,Sabanci University,59.753,Turkey,,Copper League
+435,Polytechnic University of Turin,59.532,Italy,,Copper League
+436,Hunan University,59.393,China,,Copper League
+437,Bogazici University,59.369,Turkey,,Copper League
+438,University of Tromso,59.365,Norway,,Copper League
+439,Beijing Jiaotong University,59.354,China,,Copper League
+440,Aberystwyth University,59.213,UK,,Copper League
+441,Renmin University of China,59.167,China,,Copper League
+442,University of Chile,59.074,Chile,,Copper League
+443,Masaryk University,59.050,Czech Republic,,Copper League
+444,Hong Kong Baptist University,59.016,Hong Kong,,Copper League
+445,University of Western Sydney,58.907,Australia,,Copper League
+446,Ben-Gurion University of the Negev,58.851,Israel,,Copper League
+447,Swinburne University of Technology,58.736,Australia,,Copper League
+448,Northeastern University (China),58.704,China,,Copper League
+449,University of Stirling,58.680,UK,,Copper League
+450,University of Debrecen,58.618,Hungary,,Copper League
+451,National Autonomous University of Mexico,58.490,Mexico,,Copper League
+452,Chung-Ang University,58.394,Republic of Korea,,Copper League
+453,University of Idaho,58.139,USA,,Copper League
+454,Moscow Aviation Institute,58.118,Russia,,Copper League
+455,Beijing University of Chemical Technology,58.081,China,,Copper League
+456,Vilnius University,58.077,Lithuania,,Copper League
+458,University of Houston,57.950,USA,,Copper League
+459,Shahid Beheshti University,57.901,Iran,,Copper League
+460,Lobachevsky University,57.873,Russia,,Copper League
+461,Soochow University (China),57.835,China,,Copper League
+462,University of Brescia,57.812,Italy,,Copper League
+463,Texas Tech University,57.670,USA,,Copper League
+464,Keele University,57.499,UK,,Copper League
+465,Yokohama National University,57.490,Japan,,Copper League
+466,University of Valencia,57.424,Spain,,Copper League
+467,University of Yamanashi,57.349,Japan,,Copper League
+468,Worcester Polytechnic Institute,57.290,USA,,Copper League
+469,Gifu University,57.234,Japan,,Copper League
+470,University of Minho,57.223,Portugal,,Copper League
+471,Stevens Institute of Technology,57.195,USA,,Copper League
+472,Jamia Millia Islamia,57.150,India,,Copper League
+473,The New School,57.138,USA,,Copper League
+474,University of Szeged,57.030,Hungary,,Copper League
+475,New Mexico State University,56.866,USA,,Copper League
+476,Chongqing University,56.764,China,,Copper League
+477,East China University of Science and Technology,56.749,China,,Copper League
+478,University of Limerick,56.569,Ireland,,Copper League
+479,West Virginia University,56.567,USA,,Copper League
+480,Auckland University of Technology,56.377,New Zealand,,Copper League
+481,Kyungpook National University,56.373,Republic of Korea,,Copper League
+482,K. N. Toosi University of Technology,56.363,Iran,,Copper League
+483,Konkuk University,56.268,Republic of Korea,,Copper League
+484,Jinan University,56.262,China,,Copper League
+485,Bilkent University,56.248,Turkey,,Copper League
+486,University of Ferrara,56.141,Italy,,Copper League
+487,University of Hull,56.107,UK,,Copper League
+488,Politecnico di Torino,56.104,Italy,,Copper League
+489,University of Sofia,56.063,Bulgaria,,Copper League
+490,Charles III University of Madrid,56.047,Spain,,Copper League
+491,Osaka City University,56.008,Japan,,Copper League
+492,University of Canberra,55.857,Australia,,Copper League
+493,Manipal Academy of Higher Education,55.811,India,,Copper League
+494,University of Rovira i Virgili,55.769,Spain,,Copper League
+495,Chang Gung University,55.678,Taiwan,,Copper League
+496,University of Plymouth,55.667,UK,,Copper League
+497,University de Lorraine,55.575,France,,Copper League
+498,Eotvos Lorand University,55.506,Hungary,,Copper League
+499,University of South Carolina,55.496,USA,,Copper League
+500,China Medical University (Taiwan),55.415,China,,Copper League
+501,Florida International University,55.268,USA,,World League
+502,Xiamen University,55.263,China,,World League
+503,Ajou University,55.177,Republic of Korea,,World League
+504,New Jersey Institute of Technology (NJIT),55.168,USA,,World League
+505,University of Ljubljana,55.139,Slovenia,,World League
+506,Kent State University,55.115,USA,,World League
+507,Shanghai University of Traditional Chinese Medicine,55.004,China,,World League
+508,Mendeleev University of Chemical Technology,54.977,Russia,,World League
+509,Brno University of Technology,54.966,Czech Republic,,World League
+510,University of Arkansas,54.964,USA,,World League
+511,University of Santiago de Compostela,54.893,Spain,,World League
+512,Charles Darwin University,54.888,Australia,,World League
+513,North Dakota State University,54.881,USA,,World League
+514,University of New Brunswick,54.804,Canada,,World League
+515,University of Palermo,54.754,Italy,,World League
+517,Fluminense Federal University,54.655,Brazil,,World League
+517,Fujita Health University,54.655,Japan,,World League
+518,Polytechnic University of Madrid,54.627,Spain,,World League
+519,Riga Technical University,54.548,Latvia,,World League
+520,Waseda University,54.532,Japan,,World League
+521,Murdoch University,54.481,Australia,,World League
+522,Hofstra University,54.449,USA,,World League
+523,Indian Institute of Technology (Indian School of Mines),54.386,India,,World League
+524,Amrita Vishwa Vidyapeetham University,54.359,India,,World League
+525,Federal University of Vicosa,54.273,Brazil,,World League
+526,Mississippi State University,53.865,USA,,World League
+527,Ankara University,53.859,Turkey,,World League
+528,Babol Noshirvani University of Technology,53.839,Iran,,World League
+529,Oxford Brookes University,53.809,UK,,World League
+530,Complutense University of Madrid,53.792,Spain,,World League
+531,Chiang Mai University,53.779,Thailand,,World League
+532,University of Waikato,53.715,New Zealand,,World League
+533,University of Ulsan,53.705,Republic of Korea,,World League
+534,University of Victoria,53.672,Canada,,World League
+535,University of Pecs,53.565,Hungary,,World League
+536,Aston University,53.549,UK,,World League
+537,Guangzhou Medical University,53.543,China,,World League
+538,Jeonbuk National University,53.485,Republic of Korea,,World League
+539,Siberian Federal University,53.298,Russia,,World League
+540,Dublin City University,53.297,Ireland,,World League
+541,Nanjing University of Aeronautics & Astronautics,53.285,China,,World League
+542,National Taras Shevchenko University of Kyiv,53.222,Ukraine,,World League
+543,Liverpool John Moores University,53.215,UK,,World League
+544,Ca`Foscari University of Venice,53.107,Italy,,World League
+545,Universidade Federal de Lavras,53.092,Brazil,,World League
+546,Chonnam National University,53.076,Republic of Korea,,World League
+547,Saratov State University,52.901,Russia,,World League
+548,Kyushu Institute of Technology,52.888,Japan,,World League
+549,Hacettepe University,52.773,Turkey,,World League
+550,National Chung Hsing University,52.685,Taiwan,,World League
+551,Nanjing Agricultural University,52.588,China,,World League
+552,Macau University of Science and Technology,52.587,Macau,,World League
+553,Nanjing University of Technology,52.508,China,,World League
+554,Kaohsiung Medical University,52.359,Taiwan,,World League
+555,Istanbul University,52.149,Turkey,,World League
+556,University of Turin,52.079,Italy,,World League
+557,Al-Farabi Kazakh National University,52.050,Kazakhstan,,World League
+558,Orel State University,52.049,Russia,,World League
+559,University of Crete,52.028,Greece,,World League
+560,University of Southern Queensland,51.973,Australia,,World League
+561,"Northwest University, Xi`an",51.892,China,,World League
+562,York University,51.850,Canada,,World League
+563,Harbin Engineering University,51.830,China,,World League
+564,University of Johannesburg,51.826,South Africa,,World League
+566,University of Rome III,51.688,Italy,,World League
+567,Universidad del Pais Vasco/Euskal Herriko Unibertsitatea,51.637,Spain,,World League
+568,National Taipei University of Technology,51.631,Taiwan,,World League
+569,Saint-Petersburg State Electotechnical University ``LETI``,51.458,Russia,,World League
+570,Osaka Prefecture University,51.374,Japan,,World League
+571,University of Salento,51.320,Italy,,World League
+572,Yamagata University,51.299,Japan,,World League
+573,University of Bradford,51.237,UK,,World League
+574,Sogang University,51.177,Republic of Korea,,World League
+575,Universidade Federal do Ceara,51.126,Brazil,,World League
+576,University of Alcala,51.094,Spain,,World League
+577,Northumbria University,51.057,UK,,World League
+578,American University in Cairo,50.938,Egypt,,World League
+579,Belarusian State University,50.936,Belarus,,World League
+580,China University of Mining & Technology,50.935,China,,World League
+581,Ural Federal University,50.926,Russia,,World League
+582,Northeast Normal University (China),50.778,China,,World League
+583,ISCTE – University Institute of Lisbon,50.720,Portugal,,World League
+584,University of South Dakota,50.584,USA,,World League
+585,Old Dominion University,50.552,USA,,World League
+586,University of the Basque Country,50.514,Spain,,World League
+587,Jiangnan University,50.510,China,,World League
+588,University of Texas at Arlington,50.506,USA,,World League
+589,IMT Mines Albi-Carmaux,50.252,France,,World League
+590,University of Zagreb,50.186,Croatia,,World League
+591,University of Zaragoza,50.107,Spain,,World League
+592,Beijing Forestry University,49.989,China,,World League
+593,Australian Catholic University,49.964,Australia,,World League
+594,Novosibirsk State Technical University,49.915,Russia,,World League
+595,Wuhan University of Technology,49.889,China,,World League
+596,Universita Cattolica del Sacro Cuore,49.854,Italy,,World League
+597,University of Portsmouth,49.790,UK,,World League
+598,Universite du Quebec a Montreal,49.789,Canada,,World League
+599,Immanuel Kant Baltic Federal University,49.699,Russia,,World League
+600,University of Ulster,49.622,UK,,World League
+601,Gyeongsang National University,49.521,Republic of Korea,,World League
+602,Toyohashi University of Technology,49.462,Japan,,World League
+603,Chonbuk National University,49.435,Republic of Korea,,World League
+604,University of Salamanca,49.362,Spain,,World League
+605,University of Electro-Communications,49.261,Japan,,World League
+606,Pontificia Universidade Catolica do Rio Grande do Sul,49.136,Brazil,,World League
+607,Concordia University,49.074,Canada,,World League
+608,Altai State University,49.035,Russia,,World League
+609,Bashkirian State Medical University,48.851,Russia,,World League
+610,Plekhanov Russian University of Economics,48.810,Russia,,World League
+611,Ryazan State Medical University,48.791,Russia,,World League
+612,Shenzhen University,48.784,China,,World League
+613,Samara University,48.759,Russia,,World League
+614,Thammasat University,48.699,Thailand,,World League
+615,University of the Ryukyus,48.532,Japan,,World League
+616,Marquette University,48.504,USA,,World League
+617,University of Central Florida,48.501,USA,,World League
+618,Kyiv National Economic University,48.307,Ukraine,,World League
+619,Edith Cowan University,47.871,Australia,,World League
+620,University of Alabama Birmingham,47.859,USA,,World League
+621,University of Tabriz,47.847,Iran,,World League
+622,University of Valladolid,47.794,Spain,,World League
+623,Universite de Tunis El Manar,47.783,Tunisia,,World League
+624,Middlesex University,47.633,UK,,World League
+625,Hitotsubashi University,47.609,Japan,,World League
+626,Xidian University,47.606,China,,World League
+627,Lebanese American University,47.494,Lebanon,,World League
+628,University of Peradeniya,47.475,Sri Lanka,,World League
+629,Texas Christian University,47.354,USA,,World League
+630,Donghua University,47.353,China,,World League
+631,University of Seville,47.323,Spain,,World League
+632,Tokyo University of Science,47.266,Japan,,World League
+633,Kashan University,47.194,Iran,,World League
+634,University of Puerto Rico,47.140,Puerto Rico,,World League
+635,University of Memphis,47.025,USA,,World League
+636,University of Lucerne,47.016,Switzerland,,World League
+637,University of Texas at San Antonio,46.865,USA,,World League
+638,Aristotle University of Thessaloniki,46.826,Greece,,World League
+639,Northern Arizona University,46.788,USA,,World League
+640,San Diego State University,46.693,USA,,World League
+641,National Research University of Electronic Technology (MIET),46.675,Russia,,World League
+642,Zhejiang University of Technology,46.643,China,,World League
+643,University of Bucharest,46.635,Romania,,World League
+644,University of Vigo,46.516,Spain,,World League
+645,"RANEPA, The Russian Presidential Academy of National Economy and Public Administration",46.448,Russia,,World League
+646,Babes-Bolyai University,46.391,Romania,,World League
+647,Tottori University,46.294,Japan,,World League
+648,Inha University,46.278,Republic of Korea,,World League
+649,University of Salerno,46.251,Italy,,World League
+650,Monterrey Institute of Technology and Higher Education,46.187,Mexico,,World League
+651,IMT MINES ALES,46.157,France,,World League
+652,East Carolina University,46.030,USA,,World League
+653,Gazi University,45.973,Turkey,,World League
+654,King Mongkut`s University of Technology Thonburi,45.872,Thailand,,World League
+655,Jiangsu University,45.699,China,,World League
+656,University of Westminster,45.671,UK,,World League
+657,Maynooth University,45.527,Ireland,,World League
+658,University of Zilina,45.499,Slovakia,,World League
+659,Tomsk State University of Control Systems and Radioelectronics (TUSUR University),45.462,Russia,,World League
+660,Technical University of Moldova,45.456,Moldova,,World League
+661,Coventry University,45.407,UK,,World League
+662,University of the Algarve,45.334,Portugal,,World League
+663,Financial University under the Government of the Russian Federation,45.318,Russia,,World League
+664,Nanjing Normal University,45.313,China,,World League
+665,Shantou University,45.294,China,,World League
+666,Far Eastern Federal University,45.284,Russia,,World League
+667,University of Central Lancashire,45.224,UK,,World League
+668,Universiti Malaysia Pahang,45.083,Malaysia,,World League
+669,Technical University of Sofia,45.027,Bulgaria,,World League
+670,Innopolis University,44.935,Russia,,World League
+671,University of Huddersfield,44.862,UK,,World League
+672,Pirogov University,44.828,Russia,,World League
+673,Manchester Metropolitan University,44.758,UK,,World League
+674,Northeast Federal University,44.695,Russia,,World League
+675,National Technical University Kharkiv Polytechnic Institute,44.651,Ukraine,,World League
+676,University of West Bohemia,44.640,Czech Republic,,World League
+677,Alexandria University,44.539,Egypt,,World League
+678,Florida Atlantic University,44.474,USA,,World League
+679,Hallym University,44.401,Republic of Korea,,World League
+680,University of Hertfordshire,44.377,UK,,World League
+681,Gebze Technical University,44.333,Turkey,,World League
+682,Austral University (Argentina),44.320,Argentina,,World League
+683,"State University of New York, Binghamton",44.257,USA,,World League
+684,University of Baghdad,44.095,Iraq,,World League
+685,Tokai University,44.052,Japan,,World League
+686,University of Isfahan,44.016,Iran,,World League
+687,Ufa State Aviation Technical University,43.936,Russia,,World League
+688,Autonomous University of Mexico State,43.905,Mexico,,World League
+689,University of Bari,43.791,Italy,,World League
+690,Kursk State Medical University,43.673,Russia,,World League
+691,University of Greenwich,43.563,UK,,World League
+692,Metropolitan Autonomous University,43.465,Mexico,,World League
+693,Khon Kaen University,43.462,Thailand,,World League
+694,Irkutsk State University,43.403,Russia,,World League
+695,Oakland University,43.250,USA,,World League
+696,Eskisehir Osmangazi University,43.246,Turkey,,World League
+697,TOBB University of Economics and Technology,43.231,Turkey,,World League
+698,Kursk State University,43.229,Russia,,World League
+699,Zhejiang Normal University,43.223,China,,World League
+700,University of Basrah,43.095,Iraq,,World League
+701,Glasgow Caledonian University,43.087,UK,,World League
+702,Covenant University,43.046,Nigeria,,World League
+703,Universite de Carthage,42.981,Tunisia,,World League
+704,University of Maribor,42.942,Slovenia,,World League
+705,American University of Sharjah,42.899,United Arab Emirates,,World League
+706,Asia University (Taiwan),42.857,Taiwan,,World League
+707,Chung Shan Medical University,42.793,Taiwan,,World League
+708,Suranaree University of Technology,42.739,Thailand,,World League
+709,Portland State University,42.703,USA,,World League
+711,University of Tuscia,42.435,Italy,,World League
+712,Ain Shams University,42.317,Egypt,,World League
+713,Kazan National Research Technical University named after A.N. Tupolev,42.262,Russia,,World League
+714,Sumy State University,42.253,Ukraine,,World League
+715,Yeungnam University,42.225,Republic of Korea,,World League
+716,Southern Cross University,42.187,Australia,,World League
+717,Kookmin University,42.092,Republic of Korea,,World League
+718,Iuliu Hatieganu University of Medicine and Pharmacy Cluj-Napoca,41.986,Romania,,World League
+719,Belgorod National Research University,41.973,Russia,,World League
+720,Abdullah Gul University,41.869,Turkey,,World League
+721,University of Malaysia Perlis,41.768,Malaysia,,World League
+722,University of South Africa,41.741,South Africa,,World League
+723,National Chung Cheng University,41.586,Taiwan,,World League
+724,South China Normal University,41.296,China,,World League
+725,University of the West of England,41.281,UK,,World League
+726,King Mongkut`s Institute of Technology Ladkrabang,41.268,Thailand,,World League
+727,Hawler Medical University,41.050,Iraq,,World League
+728,Universite de Paris-Nord - Paris 13,40.806,France,,World League
+729,Cochin University of Science and Technology,40.793,India,,World League
+730,University of Patras,40.790,Greece,,World League
+731,Miami University,40.772,USA,,World League
+732,University of South China,40.759,China,,World League
+733,University of Nebraska Omaha,40.683,USA,,World League
+734,University Politechica of Bucharest,40.432,Romania,,World League
+735,Mohammed V University,40.375,Morocco,,World League
+736,Sheffield Hallam University,40.338,UK,,World League
+737,Pontificial Catholic University of Valparaiso,40.333,Chile,,World League
+738,Wuhan University of Science & Technology,40.191,China,,World League
+739,Chang`an University,40.161,China,,World League
+740,Kasetsart University,40.146,Thailand,,World League
+741,Ege University,40.076,Turkey,,World League
+742,Yildiz Technical University,39.967,Turkey,,World League
+743,China Pharmaceutical University,39.763,China,,World League
+744,Baku State University,39.704,Azerbaijan,,World League
+745,Voronezh State University,39.607,Russia,,World League
+746,Cairo University,39.606,Egypt,,World League
+747,Siberian State Medical University,39.596,Russia,,World League
+748,Allameh Tabataba`i University,39.593,Iran,,World League
+749,"Moscow State Institute of Radio Engineering, Electrical & Automation",39.523,Russia,,World League
+750,Kazan National Research Technological University,39.473,Russia,,World League
+751,Western Michigan University,39.368,USA,,World League
+752,Moscow Technological University,39.349,Russia,,World League
+753,University of Science and Technology (UST),39.299,Republic of Korea,,World League
+754,National University of Uzbekistan,39.260,Uzbekistan,,World League
+756,Perm State University,39.230,Russia,,World League
+756,Russian State Agrarian University,39.230,Russia,,World League
+757,Makerere University,39.166,Uganda,,World League
+758,Universidad Pontificia Bolivariana de Medellin-Colombia,39.139,Colombia,,World League
+759,De Montfort University,39.024,UK,,World League
+760,Federation University Australia,38.850,Australia,,World League
+761,Liaoning University,38.834,China,,World League
+762,Perm National Research Polytechnic University,38.713,Russia,,World League
+763,Ivane Javakhishvili Tbilisi State University,38.673,Republic of Georgia,,World League
+765,Institute of Space Technology,38.590,Pakistan,,World League
+766,Kharkiv National University of Radio Electronics,38.561,Ukraine,,World League
+767,Moscow Pedagogical State University,38.459,Russia,,World League
+768,University of Anbar,38.360,Iraq,,World League
+769,Yanshan University,38.324,China,,World League
+770,The Herzen State Pedagogical University of Russia,38.238,Russia,,World League
+771,Izmir Institute of Technology,37.916,Turkey,,World League
+772,University of Kurdistan,37.865,Iran,,World League
+773,National Taipei University,37.862,Taiwan,,World League
+774,Jiangsu Normal University,37.797,China,,World League
+775,Moscow State University of Civil Engineering,37.775,Russia,,World League
+776,National University of Ostroh Academy,37.704,Ukraine,,World League
+777,London Metropolitan University,37.671,UK,,World League
+778,IQS Universitat Ramon Llull,37.657,Spain,,World League
+779,Dokuz Eylul University,37.604,Turkey,,World League
+780,Mustansiriyah University,37.576,Iraq,,World League
+781,Prince of Songkla University,37.530,Thailand,,World League
+782,Alzahra University,37.435,Iran,,World League
+783,Tomsk State Pedagogical University,37.409,Russia,,World League
+784,New Economic School (NES),37.303,Russia,,World League
+785,Xiangtan University,37.266,China,,World League
+786,West University of Timisoara,37.156,Romania,,World League
+787,National Dong Hwa University,37.104,Taiwan,,World League
+788,National Yunlin University of Science and Technology,37.062,Taiwan,,World League
+789,Bashkir State University,36.976,Russia,,World League
+790,Southwest Jiaotong University,36.918,China,,World League
+791,National Changhua University of Education,36.864,Taiwan,,World League
+792,Samara State Technical University,36.860,Russia,,World League
+793,Kuwait University,36.609,Kuwait,,World League
+794,South Ural State University,36.539,Russia,,World League
+795,University of Babylon,36.492,Iraq,,World League
+796,King Mongkut`s University of Technology North Bangkok,36.425,Thailand,,World League
+797,University of Rijeka,36.408,Croatia,,World League
+798,Ataturk University,36.362,Turkey,,World League
+799,Gomel State Medical University,36.166,Belarus,,World League
+800,Yangzhou University,36.144,China,,World League
+801,Fu Jen Catholic University,36.108,Taiwan,,World League
+802,Ningbo University,36.047,China,,World League
+803,Vellore Institute of Technology,35.826,India,,World League
+804,Hangzhou Dianzi University,35.738,China,,World League
+805,Omsk State Technical University,35.629,Russia,,World League
+806,National Taiwan Ocean University,35.599,Taiwan,,World League
+807,Kermanshah University of Technology,35.578,Iran,,World League
+808,Erciyes University,35.564,Turkey,,World League
+809,Universite de la Manouba,35.488,Tunisia,,World League
+810,North-Western State Medical University named after I.I. Mechnikov,35.404,Russia,,World League
+811,Leeds Beckett University,35.397,UK,,World League
+812,University of Sopron,35.336,Hungary,,World League
+813,Universiti Teknologi MARA,35.296,Malaysia,,World League
+814,Dublin Institute of Technology,35.176,Ireland,,World League
+815,Redeemer`s University,35.110,Nigeria,,World League
+816,Devi Ahilya Vishwavidyalaya,35.062,India,,World League
+817,University of Kufa,34.999,Iraq,,World League
+818,Gabriel of Annunzio University,34.912,Italy,,World League
+819,North Caucasus Federal University,34.792,Russia,,World League
+820,University of Monastir,34.755,Tunisia,,World League
+821,Northern (Arctic) Federal University (NArFU),34.721,Russia,,World League
+822,Almazov National Medical Research Centre,34.716,Russia,,World League
+823,University of Sarajevo,34.604,Bosnia And Herzegovina,,World League
+824,Chernivtsi National University,34.537,Ukraine,,World League
+825,Atilim University,34.535,Turkey,,World League
+826,Athens University of Economics and Business,34.513,Greece,,World League
+827,Tver State Technical University,34.501,Russia,,World League
+828,Qingdao University,34.443,China,,World League
+829,Yuan Ze University,34.329,Taiwan,,World League
+830,European University at St. Petersburg,34.319,Russia,,World League
+831,Damietta University,34.132,Egypt,,World League
+832,Tyumen State University,34.109,Russia,,World League
+833,L.N. Gumilyov Eurasian National University,34.006,Kazakhstan,,World League
+834,Maikop State Technological University,33.930,Russia,,World League
+835,Yeditepe University,33.848,Turkey,,World League
+836,Guangdong University of Technology,33.814,China,,World League
+837,Gubkin Russian State University of Oil and Gas,33.698,Russia,,World League
+838,University of Information Technology and Communications,33.697,Iraq,,World League
+839,Southwest Petroleum University,33.601,China,,World League
+840,Shanghai Maritime University,33.598,China,,World League
+841,University of Agricultural Sciences and Veterinary Medicine of Cluj-Napoca,33.512,Romania,,World League
+842,Salahaddin University,33.467,Iraq,,World League
+843,Hunan Normal University,33.444,China,,World League
+844,University of Pardubice,33.398,Czech Republic,,World League
+845,Omsk State University,33.360,Russia,,World League
+846,Kemerovo State University,33.287,Russia,,World League
+847,Anhui Medical University,33.276,China,,World League
+848,Tomsk State University of Architecture and Building,33.087,Russia,,World League
+849,University of Fallujah,33.075,Iraq,,World League
+850,Kwame Nkrumah University of Science & Technology,33.036,Ghana,,World League
+851,Southwest State University,32.966,Russia,,World League
+852,University of Mazandaran,32.683,Iran,,World League
+853,Moscow State University of Food Production,32.640,Russia,,World League
+854,Reshetnev Siberian State University of Science and Technology,32.596,Russia,,World League
+855,Chung Yuan Christian University,32.436,Taiwan,,World League
+856,Vyatka State University,32.419,Russia,,World League
+857,Tambov State Technical University,32.362,Russia,,World League
+858,Amity University,32.163,India,,World League
+859,Feng Chia University,32.102,Taiwan,,World League
+860,Irkutsk State Technical University,32.037,Russia,,World League
+861,Grigore T. Popa University of Medicine and Pharmacy,31.935,Romania,,World League
+862,Don State Technical University,31.917,Russia,,World League
+863,The Kosygin State University of Russia (Kosygin University),31.509,Russia,,World League
+864,"California State University, Long Beach",31.507,USA,,World League
+865,Ufa State Petroleum Technological University (USPTU),31.497,Russia,,World League
+866,University of Samarra,31.491,Iraq,,World League
+867,Mordovia State University,31.437,Russia,,World League
+868,University of Mosul,31.286,Iraq,,World League
+869,Tver State University,31.222,Russia,,World League
+870,Volgograd State University,31.122,Russia,,World League
+871,Al-Kitab University,31.033,Iraq,,World League
+872,Chung Hua University,31.028,Taiwan,,World League
+873,Russian New University,30.965,Russia,,World League
+874,University of Quebec at Chicoutimi,30.915,Canada,,World League
+875,Transilvania University of Brasov,30.814,Romania,,World League
+876,Ural State University of Economics,30.659,Russia,,World League
+877,Marmara University,30.545,Turkey,,World League
+878,Sergo Ordzhonikidze Russian State University for Geological Prospecting,30.540,Russia,,World League
+879,Institute of Telecommunications and Informatics of Turkmenistan,30.502,Turkmenistan,,World League
+880,Taiyuan University of Technology,30.493,China,,World League
+881,Uruk University,30.486,Iraq,,World League
+882,Prigo University,30.455,Czech Republic,,World League
+883,Universidad de Guadalajara,30.413,Mexico,,World League
+884,Wenzhou University,30.379,China,,World League
+885,"``George Emil Palade`` University of Medicine, Pharmacy, Science, and Technology  of Targu Mures",30.375,Romania,,World League
+886,Democritus University of Thrace,30.216,Greece,,World League
+887,Polzunov Altai State Technical University,30.194,Russia,,World League
+888,I-Shou University,30.135,Taiwan,,World League
+889,Kindai University,30.031,Japan,,World League
+890,University of Diyala,30.004,Iraq,,World League
+891,Saint Petersburg State University of Architecture and Civil Engineering,29.889,Russia,,World League
+892,Suleyman Demirel University - Kazakhstan,29.855,Kazakhstan,,World League
+893,Shibaura Institute of Technology,29.838,Japan,,World League
+894,Rey Juan Carlos University,29.599,Spain,,World League
+895,European University Skopje,29.469,North Macedonia,,World League
+896,Russian State University for the Humanities,29.402,Russia,,World League
+897,Moscow State Technology University Stankin,29.322,Russia,,World League
+898,Beni-Suef University,29.275,Egypt,,World League
+899,Odessa National Academy of Food Technologies,29.228,Ukraine,,World League
+900,Dunarea de Jos University of Galati,29.208,Romania,,World League
+901,Tatung University,29.181,Taiwan,,World League
+902,Tamkang University,29.150,Taiwan,,World League
+903,Azerbaijan University of Architecture and Construction,29.115,Azerbaijan,,World League
+904,Lipetsk State Technical University,28.967,Russia,,World League
+905,Platov South-Russian State Polytechnic University,28.826,Russia,,World League
+906,ESIC Business and Marketing School,28.776,Spain,,World League
+907,University of AL-Qadisiyah,28.462,Iraq,,World League
+908,Western Caspian University,28.407,Azerbaijan,,World League
+909,Volgograd State Technical University,28.154,Russia,,World League
+910,Al-Ahliyya Amman University,28.062,Jordan,,World League
+911,Pacific National University,28.016,Russia,,World League
+912,University of Misan,27.976,Iraq,,World League
+913,National Chiayi University,27.965,Taiwan,,World League
+915,Omsk State Agrarian University,27.750,Russia,,World League
+916,Novgorod State University,27.696,Russia,,World League
+917,Orel State Agrarian University,27.672,Russia,,World League
+918,British University in Egypt,27.662,Egypt,,World League
+919,University of Tikrit,27.640,Iraq,,World League
+920,Ninevah University,27.621,Iraq,,World League
+921,Lucian Blaga University of Sibiu,27.479,Romania,,World League
+922,Kafrelsheikh University,27.403,Egypt,,World League
+924,Emperor Alexander I St.Petersburg State Transport University,27.210,Russia,,World League
+925,Ulyanovsk State University,27.201,Russia,,World League
+926,Vladimir State University named after Alexander and Nikolay Stoletovs,27.118,Russia,,World League
+927,Al-Qasim green university Iraq,27.100,Iraq,,World League
+928,Ming Chuan University,27.039,Taiwan,,World League
+929,Bursa Uludag University,26.937,Turkey,,World League
+930,Technical University of Cluj-Napoca,26.642,Romania,,World League
+931,Tunghai University,26.565,Taiwan,,World League
+932,NED University of Engineering and Technology,26.542,Pakistan,,World League
+933,Ostrogradskiy National University of Kremenchuk,26.538,Ukraine,,World League
+934,Ubon Ratchathani University,26.192,Thailand,,World League
+935,Eurecom (Grande Ecole),26.176,France,,World League
+936,Istanbul Gelisim University,25.710,Turkey,,World League
+937,Mahasarakham University,25.567,Thailand,,World League
+938,Al-Mustaqbal University College,25.524,Iraq,,World League
+940,University of Dubrovnik,25.349,Croatia,,World League
+940,University of Telafer,25.394,Iraq,,World League
+941,Chaoyang University of Technology,25.277,Taiwan,,World League
+942,Tra Vinh University,24.800,Vietnam,,World League
+943,National University of Kaohsiung,24.588,Taiwan,,World League
+944,University of Thi-Qar,24.562,Iraq,,World League
+945,Imam Ja`afar Al-Sadiq University,24.559,Iraq,,World League
+946,Togliatti State University,24.266,Russia,,World League
+947,Tanta University,24.085,Egypt,,World League
+948,University of Kerbala,23.922,Iraq,,World League
+949,Suleyman Demirel University,23.870,Turkey,,World League
+950,Taif University,23.818,Saudi Arabia,,World League
+951,Mari State University,23.727,Russia,,World League
+952,Guizhou University,23.724,China,,World League
+953,Al-Kunooze University College,23.627,Iraq,,World League
+954,Zonguldak Bulent Ecevit University,23.474,Turkey,,World League
+955,Islamic University in Najaf,23.378,Iraq,,World League
+956,Al-Maarif University College,23.167,Iraq,,World League
+957,October 6 University (O6U),23.116,Egypt,,World League
+958,Magnitogorsk State Technical University,23.005,Russia,,World League
+959,Istanbul Aydin University,22.854,Turkey,,World League
+960,Azerbaijan State University of Economics (UNEC),22.831,Azerbaijan,,World League
+961,Belgorod State Technological University,22.804,Russia,,World League
+962,EA Buketov Karaganda State University,22.664,Kazakhstan,,World League
+963,Poltava National Technical Yuri Kondratyuk University,22.631,Ukraine,,World League
+964,National Formosa University,22.559,Taiwan,,World League
+965,Al-Muthanna University,22.495,Iraq,,World League
+966,Siberian State University of Water Transport,22.413,Russia,,World League
+967,Kozma Minin Nizhny Novgorod State Pedagogical University,22.315,Russia,,World League
+969,Istanbul Medipol University,22.071,Turkey,,World League
+970,Iraq University College,21.907,Iraq,,World League
+971,Novosibirsk State University of Economics and Management,21.865,Russia,,World League
+972,Voronezh State Technical University,21.577,Russia,,World League
+973,Interdisciplinary Center Herzliya (IDC Herzliya),21.546,Israel,,World League
+974,Can Tho University,21.294,Vietnam,,World League
+975,Al-Farabi University College,21.045,Iraq,,World League
+976,Al-Furat Al-Awsat Technical  University,20.971,Iraq,,World League
+977,Chelyabinsk State University,20.850,Russia,,World League
+978,National Institute of Higher Education,20.822,Belarus,,World League
+979,Behalf of Basrah University College of Science and Technology,20.676,Iraq,,World League
+980,South Ukrainian National Pedagogical University named after K.D. Ushynsky,20.256,Ukraine,,World League
+981,Kirov Saint Petersburg State Lesotechnic University,20.133,Russia,,World League
+982,Middle Technical University,20.025,Iraq,,World League
+983,University of the Thai Chamber of Commerce,19.648,Thailand,,World League
+984,Rostov State University of Economics,19.619,Russia,,World League
+985,University of Ahl al-Bayt,19.463,Iraq,,World League
+986,Al-Yarmouk University College,19.311,Iraq,,World League
+987,Omsk State Pedagogical University,18.955,Russia,,World League
+988,Soochow University (Taiwan),18.911,Taiwan,,World League
+989,University of Petra (UOP),18.761,Jordan,,World League
+990,Al-Noor University College,18.686,Iraq,,World League
+991,Northern Technical University,18.590,Iraq,,World League
+992,Shakarim University,18.405,Kazakhstan,,World League
+993,Al-Karkh University of Science,18.223,Iraq,,World League
+994,Madenat Al-elem University College,18.181,Iraq,,World League
+995,Kherson State Maritime Academy,18.001,Ukraine,,World League
+996,Azerbaijan Technical University,18.000,Azerbaijan,,World League
+997,University of Al-Ameed,17.875,Iraq,,World League
+998,Dijlah University College,17.798,Iraq,,World League
+999,Arab American University (AAUP),17.787,Palestine,,World League
+1000,Jabir Ibn Hayyan Medical University,17.519,Iraq,,World League
+1000,Bilad Alrafidain University College,17.266,Iraq,,World League
+1001,Kocaeli University,16.934,Turkey,,World League
+1002,University of Kirkuk,16.597,Iraq,,World League
+1003,University of Al-Hamdaniya,16.594,Iraq,,World League
+1004,Kuban State Technological University,16.153,Russia,,World League
+1005,Canadian International College,16.056,Egypt,,World League
+1006,Kabardino-Balkarian State University,16.001,Russia,,World League
+1007,Al-Iraqia University,15.037,Iraq,,World League
+1008,Al-Kut University College,14.953,Iraq,,World League
+1009,Murmansk Arctic State University,14.825,Russia,,World League
+1010,University of Sumer,14.624,Iraq,,World League
+1011,Al-Farahidi University College,14.502,Iraq,,World League
+1012,Al-Amarah University College,14.411,Iraq,,World League
+1013,Savannah College of Art and Design,13.467,USA,,World League
+1014,Al-Bayan University,12.195,Iraq,,World League
+1015,Karaganda University of Kaspotrebsoyuz,12.168,Kazakhstan,,World League
+1016,Southern Technical University,12.091,Iraq,,World League
+1017,Al-Esraa University College,11.635,Iraq,,World League
+1018,University of Alkafeel,11.532,Iraq,,World League
+1019,Voronezh Institute of High Technologies,11.346,Russia,,World League
+1020,Baghdad College Of Economic Sciences University,11.108,Iraq,,World League
+1021,Mazaya University College,10.777,Iraq,,World League
+1022,Al-Ayen University,9.763,Iraq,,World League
+1023,Al-Imam University College,9.438,Iraq,,World League
+1024,National University for Science and Technology,9.362,Iraq,,World League
+1025,Ashur University College,9.048,Iraq,,World League
+1026,University College in Baghdad Iraq,7.954,Iraq,,World League
+1027,Universitas Bakrie,7.599,Indonesia,,World League
+1028,Al-Mansour University College,7.513,Iraq,,World League
+1029,Al-Toosi University College,7.339,Iraq,,World League
+1030,Al-Hikma University College,5.434,Iraq,,World League
+1031,University of Warith Alanbiyaa,4.644,Iraq,,World League
+1032,Imam Al-Kadhum College,4.232,Iraq,,World League
